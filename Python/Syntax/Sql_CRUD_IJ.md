@@ -20,3 +20,6 @@ Sorting Order
 
 INSERT
 --INSERT into Users (name, email) values ("xyuanx", "xyuanx@umich.edu")
+
+JOIN
+--SELECT Track.title, Genre.name from Track join Genre on Track.genre_id = Genre.id
